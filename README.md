@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😀 My name is Fred
+
+🔭 I’m  currently learning php in the Marvelous Wild Code School in Biarritz France !
+
+⚡ Fun fact: I love CrossFit
+
 <!--
 **fred-fittywebdev/fred-fittywebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
