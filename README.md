@@ -27,7 +27,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Eclipse](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
+  ![Eclipse](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 - 🖥 &nbsp;
   ![Adobe XD](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobe-xd)
   
