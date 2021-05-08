@@ -32,6 +32,11 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobe-xd)
   
  <br/>
+ <a href="https://github.com/fred-fittywebdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fred-fittywebdev&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fred-fittywebdev&theme=buefy&layout=compact" />
+</a>
+<br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
