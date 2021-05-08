@@ -29,7 +29,7 @@
   ![RStudio](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Eclipse](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Adobe-xd-333333?style=flat&logo=adobe-adobe-xd)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe-xd-333333?style=flat&logo=adobe-adobe-xd)
   
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
