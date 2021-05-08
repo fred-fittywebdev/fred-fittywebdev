@@ -31,11 +31,12 @@
 - 🖥 &nbsp;
   ![Adobe XD](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobe-xd)
   
-  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+ <br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://fittywebdev.fr//"><img alt="Website" src="https://img.shields.io/badge/Website-www.fittywebdev.fr-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ricguerra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fr%C3%A9d%C3%A9ricguerraSingh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ricguerra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fr%C3%A9d%C3%A9ricguerra-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contact@fittywebdev.fr"><img alt="Email" src="https://img.shields.io/badge/Email-contact@fittywebdev.fr-blue?style=flat-square&logo=gmail"></a>
 </p>
  
