@@ -18,7 +18,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![TailwindCss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwind-css)
+  ![TailwindCss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwind-css)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
