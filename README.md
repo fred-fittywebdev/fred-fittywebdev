@@ -26,8 +26,8 @@
   ![GitHub](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=unbuntu)
-  ![Eclipse](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux-ide&logoColor=2C2255)
+  ![RStudio](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Eclipse](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Adobe-xd-333333?style=flat&logo=adobe-adobe-xd)
   
