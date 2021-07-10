@@ -23,6 +23,7 @@
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
