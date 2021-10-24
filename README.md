@@ -3,7 +3,7 @@
 😀 My name is Fred
 
 
-- 🔭 I’m  currently learning php in the Marvelous Wild Code School in Biarritz France !
+- 🔭 Web developer at Boardriders !
 - 🥅 2021 Goals: learning React, API platform and make projects with php and react together !
 - ⚡ Fun fact: I love CrossFit
 <br>
