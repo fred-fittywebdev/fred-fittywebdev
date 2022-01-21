@@ -13,6 +13,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
   ![Java](https://img.shields.io/badge/-symfony-333333?style=flat&logo=symfony&logoColor=007396)
+  ![Python](https://https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
